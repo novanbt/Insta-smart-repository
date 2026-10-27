@@ -412,35 +412,6 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: center;
   flex-shrink: 0;
 }
-  height: 40px;
-  border-radius: 12px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-shrink: 0;
-}
-
-.floating-icon.gold {
-  background: #fef3c7;
-  color: #d97706;
-}
-
-.floating-icon.green {
-  background: #dcfce7;
-  color: #15803d;
-}
-
-.floating-text-primary {
-  font-weight: 700;
-  font-size: 0.9375rem;
-  color: var(--color-text-main);
-  line-height: 1.2;
-}
-
-.floating-text-sub {
-  font-size: 0.75rem;
-  color: var(--color-text-muted);
-}
 
 /* ==========================================================================
    QUICK PICKUP SCHEDULER WIDGET
